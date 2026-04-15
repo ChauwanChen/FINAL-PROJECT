@@ -30,3 +30,13 @@ Startups para desenvolver novo aplicativo para os amantes de livros.
 Contém dados sobre livros, editoras, autores, e classificação de clientes e avaliação de livros de um concorrente.
 Analisar o banco de dados para gerar uma proposição válida para o novo produto.
 
+### Tecnologias
+- Python
+- Pandas
+- Matplotlib
+- Statsmodels
+- Scipy
+- Math
+- Seaborn
+- Numpy
+- SQL
